@@ -13,7 +13,10 @@ across the world remotely.
 
 I entered the project during its developement phase in the SDLC and due to its massive contibutions from other engineers I can only provide my portion of development.
 
-Visit Site:
+<div align="center">
+### Visit Site:
 <a href="https://advancingdiversity.azurewebsites.net/" target="_blank">
 <img src=https://img.shields.io/badge/adv-Diversty-blue alt=twitter style="margin-bottom: 5px;" />
 </a>
+  </div>  
+
