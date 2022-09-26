@@ -7,6 +7,11 @@ across the world remotely.
 
 🔭 Worked on a full-stack task:
 
+🔭 Worked on a full-stack task:
+Front End: Created Jobfair and Jobs page and forms.
+Middle Tier: Created models and controllers, connected MVC and proper functionally.
+Back End: Created tables and store prodecures for the jobfair data.  
+
 Front End: Created Jobfair and Jobs page and forms.
 Middle Tier: Created models and controllers, connected MVC and proper functionally.
 Back End: Created tables and store prodecures for the jobfair data.  
