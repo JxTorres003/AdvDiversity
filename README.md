@@ -22,9 +22,9 @@ across the world remotely.
 - Middle Tier: Created models and controllers, connected MVC and proper functionally.
 <div>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" height="50" /></a>  
+ <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+
 
 </div>
 
@@ -32,6 +32,8 @@ across the world remotely.
 - Back End: Created tables and store prodecures for the jobfair data.  
 <div>  
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
 
 </div>
 
