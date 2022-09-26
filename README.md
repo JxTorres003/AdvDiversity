@@ -16,3 +16,7 @@ I entered the project during its developement phase in the SDLC and due to its m
   <button class="btn btn-block btn-info">Info</button>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='Visit website' height='40'>](https://advancingdiversity.azurewebsites.net/)  
+
+<a href="https://advancingdiversity.azurewebsites.net/" target="_blank">
+<img src=https://img.shields.io/badge/adv-Diversty-blue alt=twitter style="margin-bottom: 5px;" />
+</a>
