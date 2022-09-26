@@ -10,3 +10,7 @@ across the world remotely.
 - Middle Tier: Created models and controllers, connected MVC and proper functionally.
 - Back End: Created tables and store prodecures for the jobfair data.  
 
+
+I entered the project during its developement phase in the SDLC and due to its massive contibutions from other engineers I can only provide my portion of development.
+
+
