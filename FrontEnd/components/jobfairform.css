@@ -1,0 +1,19 @@
+.jobfair-form {
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2), 0px 6.3px 15px rgba(0, 0, 0, 0.61);
+}
+
+#jobfair-group {
+  color: black;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.jobfair-group {
+  color: black;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.jobfair-type {
+  text-align: left;
+}
