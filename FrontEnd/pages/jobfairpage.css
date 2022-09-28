@@ -1,0 +1,44 @@
+.jobfair-field:focus {
+  background-color: #bbbbbb;
+}
+.jobfair-text {
+  color: #000000;
+}
+
+.jobfair-card {
+  color: #000000;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2), 0px 6.3px 15px rgba(0, 0, 0, 0.61);
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.jobfair-card-style {
+  border-color: #d0d7ff;
+  background: white;
+}
+
+.jobfair-card-style:hover {
+  transform: scale(1.02) perspective(0px);
+  background: #fbefe7df;
+}
+
+.jobfair-card-style:focus {
+  background: #fbe5d4df;
+}
+
+.jobfair-list-container {
+  height: 75vh;
+}
+
+.jobfair-center {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#jobfair-center {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
