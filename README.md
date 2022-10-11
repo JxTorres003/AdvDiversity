@@ -1,5 +1,4 @@
-# AdvDiversity
-The Institute of  Advance Diversity
+# The Institute of  Advance Diversity
 
 An online platform designed to connect individuals with the objective to provide personal
 growth, entrepreneurship, career advice and much more by connecting them with mentors
