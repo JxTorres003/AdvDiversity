@@ -17,13 +17,13 @@ across the world remotely.
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" />
  </a>  
  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="39" />
+  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="36" />
  </a>  
  <a href="https://reactjs.org/" target="_blank">
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" />
  </a>   
  <a href="https://code.visualstudio.com/" target="_blank">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="35" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="33" />
  </a>  
 </div>
 
