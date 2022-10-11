@@ -6,7 +6,6 @@ across the world remotely.
 
 ## 🧰  Worked on a full-stack project:
 ### Frontend  
-- Front End: Created Jobfair and Jobs page and forms.
 <div>  
  <a href="https://reactjs.org/" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />
@@ -27,6 +26,9 @@ across the world remotely.
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="40" />
   </a>  
 </div>
+###Front End Tasks: 
+- Created Jobfair and Jobs page and forms.
+
 
 ### Middle Tier  
 - Middle Tier: Created models and controllers, connected MVC and proper functionally.
