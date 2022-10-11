@@ -11,7 +11,7 @@ across the world remotely.
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="42" />
  </a> 
  <a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" />
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="42" />
  </a>    
  <a href="https://www.javascript.com/" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" />
