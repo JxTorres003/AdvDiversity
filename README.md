@@ -26,7 +26,8 @@ across the world remotely.
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="40" />
   </a>  
 </div>
-###Front End Tasks: 
+
+### Front End Tasks: 
 - Created Jobfair and Jobs page and forms.
 
 
