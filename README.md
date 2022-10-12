@@ -5,7 +5,7 @@ growth, entrepreneurship, career advice and much more by connecting them with me
 across the world remotely.
 
 ## 🧰  Worked on a full-stack project:
-### Frontend  
+### * Frontend  
 <div>  
  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="42" />
@@ -31,7 +31,7 @@ across the world remotely.
 - Created Components for Jobfair page.
 - Created Service file for hanlding RESTful api request.
 
-### Middle Tier  
+### * Middle Tier  
 <div>  
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" />
@@ -51,7 +51,7 @@ across the world remotely.
 - Middle Tier: Created models and controllers, connected MVC and proper functionally.
 
 
-### Back End 
+### * Back End 
 <div>  
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" height="40" />
