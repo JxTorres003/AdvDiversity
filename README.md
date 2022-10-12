@@ -52,15 +52,17 @@ across the world remotely.
 
 
 ### Back End 
-- Back End: Created tables and store prodecures for the jobfair data.  
 <div>  
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" height="50" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" height="50" />
 </a>  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />
 </a>  
 </div>
+
+#### Back End Tasks: 
+- Back End: Created tables and store prodecures for the jobfair data.  
 
 
 I entered the project during its developement phase in the SDLC and due to its massive contibutions from other engineers I can only provide my portion of development.
