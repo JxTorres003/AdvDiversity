@@ -54,10 +54,10 @@ across the world remotely.
 ### Back End 
 <div>  
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" height="50" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" height="40" />
 </a>  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank">
-  <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="40" />
 </a>  
 </div>
 
@@ -69,6 +69,6 @@ I entered the project during its developement phase in the SDLC and due to its m
 
 ### Visit Site:
 <a href="https://advancingdiversity.azurewebsites.net/" target="_blank">
-<img src=https://img.shields.io/badge/adv-Diversty-blue alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/adv-Diversty-blue alt=project />
 </a>
 
