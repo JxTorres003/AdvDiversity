@@ -3,8 +3,13 @@
   An online platform designed to connect individuals with the objective to provide personal
 growth, entrepreneurship, career advice and much more by connecting them with mentors
 across the world remotely.
+## 🧰  Worked on a full-stack project:  
+I entered the project during its developement phase in the SDLC and due to its massive contibutions from other engineers I can only provide my portion of development.
+### Visit Site:
+<a href="https://advancingdiversity.azurewebsites.net/" target="_blank">
+<img src=https://img.shields.io/badge/adv-Diversty-blue alt=project />
+</a>
 
-## 🧰  Worked on a full-stack project:
 ### * Frontend  
 <div>  
  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
@@ -65,10 +70,7 @@ across the world remotely.
 - Back End: Created tables and store prodecures for the jobfair data.  
 
 
-I entered the project during its developement phase in the SDLC and due to its massive contibutions from other engineers I can only provide my portion of development.
 
-### Visit Site:
-<a href="https://advancingdiversity.azurewebsites.net/" target="_blank">
-<img src=https://img.shields.io/badge/adv-Diversty-blue alt=project />
-</a>
+
+
 
