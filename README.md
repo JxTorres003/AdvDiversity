@@ -2,8 +2,8 @@
 
   An online platform designed to connect individuals with the objective to provide personal
 growth, entrepreneurship, career advice and much more by connecting them with mentors
-across the world remotely.
-## 🧰  Worked on a full-stack project:  
+across the United States.
+##  Worked on a full-stack project: 🧰
 I entered the project during its developement phase in the SDLC and due to its massive contibutions from other engineers I can only provide my portion of development.
 ### Visit Site:
 <a href="https://advancingdiversity.azurewebsites.net/" target="_blank">
@@ -33,8 +33,9 @@ I entered the project during its developement phase in the SDLC and due to its m
 </div>
 
 #### Front End Tasks: 
-- Created Components for Jobfair page.
-- Created Service file for hanlding RESTful api request.
+- Created multiple components for rendering data.
+- Created reusable forms for creating content.
+- Ui focused design.
 
 ### * Middle Tier  
 <div>  
@@ -53,7 +54,8 @@ I entered the project during its developement phase in the SDLC and due to its m
 </div>
 
 #### Middle Tier Tasks: 
-- Middle Tier: Created models and controllers, connected MVC and proper functionally.
+- Created models for transfering data back and forth from the database to the controller.
+- Created controllers to run the request and handle data properly between the model and the view.
 
 
 ### * Back End 
@@ -67,7 +69,7 @@ I entered the project during its developement phase in the SDLC and due to its m
 </div>
 
 #### Back End Tasks: 
-- Back End: Created tables and store prodecures for the jobfair data.  
+-  Created sql tables and store prodecures for the requesting the jobfair data.  
 
 
 
