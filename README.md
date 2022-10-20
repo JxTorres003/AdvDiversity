@@ -5,10 +5,11 @@
 Entered the project during its developement phase (SDLC) and due to its massive contibutions from other engineers I can only provide my portion of the project development.
 
 <div>
-  ### <p>Visit Site:</P>
+ <p>Visit Site:
   <a href="https://advancingdiversity.azurewebsites.net/" target="_blank">
   <img src=https://img.shields.io/badge/adv-Diversty-blue alt=project />
   </a>
+ </p>
 </div>
 
 ### * Frontend  
