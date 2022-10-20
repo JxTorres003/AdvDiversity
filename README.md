@@ -8,7 +8,7 @@ Entered the project during its developement phase (SDLC) and due to its massive 
  <p style="font-weight: bold"> Visit Site:  
   <a href="https://advancingdiversity.azurewebsites.net/" target="_blank">
   <img src=https://img.shields.io/badge/adv-Diversty-blue alt=project  height="15"  />
-  </a>
+  </a> (<--Click me)
  </p>
 </div>
 
