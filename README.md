@@ -3,10 +3,13 @@
   An online platform designed to connect individuals with the objective to provide personal growth, entrepreneurship, career advice and much more by connecting them with mentors across the United States.
 ##  Worked on a full-stack development project: 🧰
 Entered the project during its developement phase (SDLC) and due to its massive contibutions from other engineers I can only provide my portion of the project development.
-### Visit Site:
-<a href="https://advancingdiversity.azurewebsites.net/" target="_blank">
-<img src=https://img.shields.io/badge/adv-Diversty-blue alt=project />
-</a>
+
+<div>
+  ### <p>Visit Site:</P>
+  <a href="https://advancingdiversity.azurewebsites.net/" target="_blank">
+  <img src=https://img.shields.io/badge/adv-Diversty-blue alt=project />
+  </a>
+</div>
 
 ### * Frontend  
 <div>  
