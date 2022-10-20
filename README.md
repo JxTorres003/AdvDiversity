@@ -1,10 +1,8 @@
-# The Institute of  Advance Diversity
+# The Institute to Advance Diversity
 
-  An online platform designed to connect individuals with the objective to provide personal
-growth, entrepreneurship, career advice and much more by connecting them with mentors
-across the United States.
-##  Worked on a full-stack project: 🧰
-I entered the project during its developement phase in the SDLC and due to its massive contibutions from other engineers I can only provide my portion of development.
+  An online platform designed to connect individuals with the objective to provide personal growth, entrepreneurship, career advice and much more by connecting them with mentors across the United States.
+##  Worked on a full-stack development project: 🧰
+Entered the project during its developement phase (SDLC) and due to its massive contibutions from other engineers I can only provide my portion of the project development.
 ### Visit Site:
 <a href="https://advancingdiversity.azurewebsites.net/" target="_blank">
 <img src=https://img.shields.io/badge/adv-Diversty-blue alt=project />
@@ -27,9 +25,7 @@ I entered the project during its developement phase in the SDLC and due to its m
  <a href="https://reactjs.org/" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" />
  </a>   
- <a href="https://code.visualstudio.com/" target="_blank">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="33" />
- </a>  
+ 
 </div>
 
 #### Front End Tasks: 
@@ -45,12 +41,7 @@ I entered the project during its developement phase in the SDLC and due to its m
   <a href="https://dotnet.microsoft.com/download" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="40" />
   </a>  
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" height="40" />
-  </a>  
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"/>
-  </a> 
+  
 </div>
 
 #### Middle Tier Tasks: 
@@ -71,6 +62,27 @@ I entered the project during its developement phase in the SDLC and due to its m
 #### Back End Tasks: 
 -  Created sql tables and store prodecures for the requesting the jobfair data.  
 
+### * Tools
+<div>  
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="33" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" height="40" />
+  </a>  
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"/>
+  </a> 
+  <a href="https://trello.com/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="Trello" height="40" />
+  </a> 
+  <a href="https://yarnpkg.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="Yarn" height="40" />
+  </a>  
+  <a href="https://github.com/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />
+  </a>
+</div>
 
 
 
