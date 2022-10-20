@@ -80,7 +80,7 @@ Entered the project during its developement phase (SDLC) and due to its massive 
     <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="Yarn" height="40" />
   </a>  
   <a href="https://github.com/" target="_blank">
-        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />
+    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />
   </a>
 </div>
 
