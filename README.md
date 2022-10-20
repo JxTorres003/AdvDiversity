@@ -65,7 +65,7 @@ Entered the project during its developement phase (SDLC) and due to its massive 
 ### * Tools
 <div>  
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="33" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="40" />
   </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" height="40" />
