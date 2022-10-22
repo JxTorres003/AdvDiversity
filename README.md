@@ -1,15 +1,16 @@
 # **The Institute to Advance Diversity**
 
-> ##### An online platform designed to connect individuals with the objective to provide personal growth, entrepreneurship, career advice and much more by connecting them with mentors across the United States.
+ > #### **_An online platform designed to connect individuals with the objective to provide personal growth, entrepreneurship, career advice and much more by connecting them with mentors across the United States._**
 
-- ### Worked on a full-stack development project: 🧰
-   - > Entered the project during its developement phase (SDLC) and due to its massive contibutions from other engineers I can only provide my portion of the project development.
+## Worked on a full-stack development project: 🧰
+>   - Entered the project during its developement phase (SDLC) and due to its massive contibutions from other engineers I can only provide my portion of the project development.
 
-**Visit the Website:**
-[![](https://img.shields.io/badge/-AdvDiversity-0e76a8?style=plastic&color=yellowgreen&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAXCAMAAAAr4Q9YAAAAY1BMVEUAAADsx63ux67sxq3pw6rux67rxK3cvqjtxq3txq6dhHPtyK7tx63qxq3pxKzhu6Xux67txq7nwansxq/LqpTvyK/XtJ3PrZfEpI/JqJOvkoDfu6O7nYjowqmkiXiXf2+HcWPukFX7AAAAFXRSTlMAWeqIKc9rC8Kg/d+Ud0YU8rc1G+4SKWAWAAAA5klEQVQoz32RSXLDIBREQfNsO84fQcP9TxlkKymioDyKYvGqe9GYg9q2j9bWJs3Uw05mk7aCb9pEgT1cuuADftHn0y2ydQ9/uJeP4ajJ4YLyGeyzUwrMSijiSYSEhd9+Dwsuy4Kgm66iyqRevX/nK2MyQmYWF1LeMSNyOIduTAFACBdkxgat13ofbBZ0OM/OoXPiEcMbQMTmtRir6up1W1nRz5vyototzN34mkxEHBIh+XD3JmZiQvcZ1svgEvvfaDCawC2OJ75uSu49/ny8vZ+DeWEiiiaWjTVnbJkKxg3V0A7V2X0B1yIndf4YRTgAAAAASUVORK5CYII=&url=https%3A%2F%2Fadvancingdiversity.azurewebsites.net%2F)](https://advancingdiversity.azurewebsites.net/) (<-- _click me_ )
+**Visit the Website:** 
+[![](https://img.shields.io/badge/-AdvDiversity-0e76a8?style=plastic&color=yellowgreen&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAXCAMAAAAr4Q9YAAAAY1BMVEUAAADsx63ux67sxq3pw6rux67rxK3cvqjtxq3txq6dhHPtyK7tx63qxq3pxKzhu6Xux67txq7nwansxq/LqpTvyK/XtJ3PrZfEpI/JqJOvkoDfu6O7nYjowqmkiXiXf2+HcWPukFX7AAAAFXRSTlMAWeqIKc9rC8Kg/d+Ud0YU8rc1G+4SKWAWAAAA5klEQVQoz32RSXLDIBREQfNsO84fQcP9TxlkKymioDyKYvGqe9GYg9q2j9bWJs3Uw05mk7aCb9pEgT1cuuADftHn0y2ydQ9/uJeP4ajJ4YLyGeyzUwrMSijiSYSEhd9+Dwsuy4Kgm66iyqRevX/nK2MyQmYWF1LeMSNyOIduTAFACBdkxgat13ofbBZ0OM/OoXPiEcMbQMTmtRir6up1W1nRz5vyototzN34mkxEHBIh+XD3JmZiQvcZ1svgEvvfaDCawC2OJ75uSu49/ny8vZ+DeWEiiiaWjTVnbJkKxg3V0A7V2X0B1yIndf4YRTgAAAAASUVORK5CYII=&url=https%3A%2F%2Fadvancingdiversity.azurewebsites.net%2F)](https://advancingdiversity.azurewebsites.net/) <-- _click me_ 
 
 
 ---
+<!-- ![](https://img.shields.io/website?label=Adv&logo=&style=plastic&color=black&up_color=blue&up_message=Diversity&url=https%3A%2F%2Fadvancingdiversity.azurewebsites.net%2F) (<-- _click me_ ) -->
 
 ## **Front-End**
 <div>  
@@ -31,10 +32,9 @@
 </div>
 
  - **_Front End Tasks:_**
-    - _Created multiple components for rendering data._
-    - _Created reusable forms for creating content._
-    - _Ui focused design._
-
+>   - _Created multiple components for rendering data._
+>   - _Created reusable forms for creating content._
+>   - _Ui focused design._
 
 ## **Middle-Tier**
 <div>  
@@ -43,15 +43,13 @@
   </a>  
   <a href="https://dotnet.microsoft.com/download" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="40" />
-  </a>  
-  
+  </a>    
 </div>
 
-- **_Middle Tier Tasks:_**
-   - _using ASP.NET Core MVC_
-   - _Created models for transfering data back & forth from the database to the controller._
-   - _Created controllers to run the request and handle data properly between model & view._
-  
+ - **_Middle Tier Tasks:_**
+ >   - _using ASP.NET Core MVC_
+ >   -  _Created models for transfering data back & forth from the database to the controller._
+ >   -  _Created controllers to run the request and handle data properly between model & view._
 
 ## **Back-End**
 <div>  
@@ -64,9 +62,11 @@
 </div>
 
 - **_Back End Tasks:_**
-  - Created sql tables and store prodecures for the requesting the jobfair data.   
-  - Connect the bridge from client to serve using ASP.NET MVC
+>   - _Created sql tables and store prodecures for the requesting the jobfair data._
+>   - _Connect the bridge from client to serve using ASP.NET MVC._
+
 ## **Tools:**
+
 <div>  
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" height="40" />
