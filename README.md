@@ -10,7 +10,7 @@
 
 ---
 
-## **Frontend**
+## **Front-End**
 <div>  
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="42" />
@@ -35,7 +35,7 @@
     - _Ui focused design._
 
 
-## **Middle Tier**
+## **Middle-Tier**
 <div>  
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" />
@@ -52,7 +52,7 @@
    - _Created controllers to run the request and handle data properly between model & view._
   
 
-## **Backend**
+## **Back-End**
 <div>  
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" height="40" />
