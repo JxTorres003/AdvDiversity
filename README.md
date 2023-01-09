@@ -1,6 +1,6 @@
 # **The Institute to Advance Diversity**
 
- > #### **_An online platform designed to connect individuals seeking personal growth, entrepreneurship, career advice, and more with mentors from across the country. Our goal is to provide a valuable resource for individuals looking to achieve their goals and achieve success in their chosen fields._**
+ > #### **_An online platform designed to connect individuals seeking personal growth, entrepreneurship, career advice, and more with mentors from across the country. Our goal is to provide a valuable resource for individuals looking to achieve their goals and achieve success in their chosen career fields._**
 
 ## Worked on a full-stack development project: 🧰
 >   - Entered the project during its developement phase (SDLC) and due to its massive contibutions from other engineers I can only provide my portion of the project development.
