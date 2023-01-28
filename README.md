@@ -48,9 +48,12 @@
 </div>
 
  - **_Project Tasks:_**
- >   - _using ASP.NET Core MVC_
- >   -  _Created models for transfering data back & forth from the database to the controller._
- >   -  _Created controllers to run the request and handle data properly between model & view._
+ >   - _Utilized ASP.NET Core MVC to develop a web application._
+ >   - _Implemented models for efficient transfer of data between the database and the controller._
+ >   - _Created controllers to handle requests and manage data flow between the models and views._
+ >   - _Leveraged the features of ASP.NET Core to enhance performance and security of the application._
+ >   - _Utilized the built-in communication features of C# and .NET to connect the middle-tier to the front-end and back-end of the application._
+ >   - _Implemented data validation and business logic in the middle-tier to ensure data integrity and consistency._
 
 ## **Back-End**
 <div>  
