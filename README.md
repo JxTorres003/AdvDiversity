@@ -31,7 +31,7 @@
   </a>    
 </div>
 
- - **_Front End Tasks:_**
+ - **_Project Tasks:_**
 >   - _Developed and implemented various components utilizing React Hooks, Bootstrap, and Proptypes for efficient data rendering._
 >   - _Utilized Formik and states to create reusable forms for content creation, streamlining the development process._
 >   - _Implemented a user-interface focused design approach to enhance the overall user experience._
@@ -47,7 +47,7 @@
   </a>    
 </div>
 
- - **_Middle Tier Tasks:_**
+ - **_Project Tasks:_**
  >   - _using ASP.NET Core MVC_
  >   -  _Created models for transfering data back & forth from the database to the controller._
  >   -  _Created controllers to run the request and handle data properly between model & view._
@@ -62,7 +62,7 @@
 </a>  
 </div>
 
-- **_Back End Tasks:_**
+- **_Project Tasks:_**
 >   - _Created sql tables and store prodecures for the requesting the jobfair data._
 >   - _Connect the bridge from client to serve using ASP.NET MVC._
 
