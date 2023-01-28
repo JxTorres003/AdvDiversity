@@ -66,8 +66,13 @@
 </div>
 
 - **_Project Tasks:_**
->   - _Created sql tables and store prodecures for the requesting the jobfair data._
->   - _Connect the bridge from client to serve using ASP.NET MVC._
+>   - _Worked with SQL Server Management Studio (SSMS) to design and implement a database for the application._
+>   - _Created SQL tables and stored procedures to manage the data for the job fair._
+>   - _Utilized the .NET Framework to connect the database to the application._
+>   - _Used ASP.NET MVC to establish a bridge between the client and the server, providing a seamless communication._
+>   - _Leveraged the Model-View-Controller (MVC) architecture to separate the concerns of the application and improve maintainability._
+>   - _Developed Stored Procedures to handle complex queries and improve performance._
+>   - _Utilized best practices for database design and optimization to ensure efficient data management and retrieval._
 
 ## **Tools:**
 
