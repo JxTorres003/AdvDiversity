@@ -3,7 +3,7 @@
  > #### **_An online platform designed to connect individuals seeking personal growth, entrepreneurship, career advice, and more with mentors from across the country. Our goal is to provide a valuable resource for individuals looking to achieve their goals and achieve success in their chosen career fields._**
 
 ## Worked on a full-stack development project: 🧰
->   - Entered the project during its developement phase (SDLC) and due to its massive contibutions from other engineers I can only provide my portion of the project development.
+>   - I joined the project during its development phase and, due to the significant contributions of other engineers, can only provide information regarding my specific role in the project's development.
 
 **Visit the Website:** 
 [![](https://img.shields.io/badge/-AdvDiversity-0e76a8?style=plastic&color=yellowgreen&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAXCAMAAAAr4Q9YAAAAY1BMVEUAAADsx63ux67sxq3pw6rux67rxK3cvqjtxq3txq6dhHPtyK7tx63qxq3pxKzhu6Xux67txq7nwansxq/LqpTvyK/XtJ3PrZfEpI/JqJOvkoDfu6O7nYjowqmkiXiXf2+HcWPukFX7AAAAFXRSTlMAWeqIKc9rC8Kg/d+Ud0YU8rc1G+4SKWAWAAAA5klEQVQoz32RSXLDIBREQfNsO84fQcP9TxlkKymioDyKYvGqe9GYg9q2j9bWJs3Uw05mk7aCb9pEgT1cuuADftHn0y2ydQ9/uJeP4ajJ4YLyGeyzUwrMSijiSYSEhd9+Dwsuy4Kgm66iyqRevX/nK2MyQmYWF1LeMSNyOIduTAFACBdkxgat13ofbBZ0OM/OoXPiEcMbQMTmtRir6up1W1nRz5vyototzN34mkxEHBIh+XD3JmZiQvcZ1svgEvvfaDCawC2OJ75uSu49/ny8vZ+DeWEiiiaWjTVnbJkKxg3V0A7V2X0B1yIndf4YRTgAAAAASUVORK5CYII=&url=https%3A%2F%2Fadvancingdiversity.azurewebsites.net%2F)](https://advancingdiversity.azurewebsites.net/) <-- _click me_ 
@@ -32,9 +32,11 @@
 </div>
 
  - **_Front End Tasks:_**
->   - _Created multiple components for rendering data._
->   - _Created reusable forms for creating content._
+>   - _Developed and implemented various components utilizing React Hooks, Bootstrap, and Proptypes for efficient data rendering._
+>   - _Utilized Formik and states to create reusable forms for content creation, streamlining the development process._
 >   - _Ui focused design._
+>   - _Implemented a user-interface focused design approach to enhance the overall user experience._
+>   - _Contributed to the design and development of the project during the software development life cycle (SDLC)._
 
 ## **Middle-Tier**
 <div>  
