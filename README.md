@@ -34,7 +34,6 @@
  - **_Front End Tasks:_**
 >   - _Developed and implemented various components utilizing React Hooks, Bootstrap, and Proptypes for efficient data rendering._
 >   - _Utilized Formik and states to create reusable forms for content creation, streamlining the development process._
->   - _Ui focused design._
 >   - _Implemented a user-interface focused design approach to enhance the overall user experience._
 >   - _Contributed to the design and development of the project during the software development life cycle (SDLC)._
 
