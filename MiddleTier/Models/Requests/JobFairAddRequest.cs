@@ -2,7 +2,6 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-
 namespace Sabio.Models.Requests.JobFair
 {
     public class JobFairAddRequest
